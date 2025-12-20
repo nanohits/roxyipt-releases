@@ -3,31 +3,30 @@ Download the latest version of Mac and Windows from the Releases section.
 
 Release notes:
 
-# Release Notes - v1.0.3
+RoxyIPTV v1.0.4 brings essential family safety features and a significant upgrade to the video player experience.
 
-Welcome to RoxyIPTV v1.0.3! This release introduces powerful tools to manage your playlist content, performance optimizations, and smart navigation features.
+## 🌟 New Features
 
-## 🌟 What's New
+### 🛡️ Parental Control
+Protect your family with robust new content restrictions (Settings > Parental Control):
+- **PIN Protection**: Secure sensitive content with a 4-digit PIN.
+- **Smart Auto-Lock**: One-click scanner to automatically find and lock adult categories.
+- **Category Locking**: Manually select specific categories to hide from view.
+- **Global Toggle**: Quickly lock or unlock the entire app using the new Lock icon in the header. When locked, restricted content is completely hidden from all lists.
 
-### 🧹 Content Manager & Smart Cleanup
-Keep your channel list clean and organized with our new **Content Manager** (found in Settings):
-- **Advanced Category Management**: Browse all your channel groups with new filters (All, Visible, Hidden). Easily hide unwanted sections like "24/7" or foreign language groups to declutter your view.
-- **Smart Duplicate Finder**: Automatically scan your playlist for duplicate channels (e.g., "CNN HD" vs "CNN FHD").
-- **Bulk Cleanup**: Remove clutter by hiding hundreds of duplicate channels instantly, keeping only the primary version.
+### 🎥 Enhanced Video Player
+We've supercharged the playback experience:
+- **Immersive Mode**: Double-click the video to enter a distraction-free full-screen theater mode. Double-click again to exit.
+- **Aspect Ratio Control**: Quick toggle button to switch between **Fit** (default) and **Zoom** (fill screen). A "Stretch" option is also available in the player settings.
+- **Stats for Nerds**: Tech-savvy users can now toggle an overlay showing real-time resolution, bandwidth, buffer health, and dropped frames.
+- **Quality Selection**: Manually select your preferred video quality (e.g., 1080p, 720p) or leave it on Auto for HLS streams.
 
-### ⚡ Performance & Navigation
-- **Favorites First**: When opening Live TV, the app now intelligently defaults to your **Favorites** list if you have any, getting you to your content faster.
-- **Instant Navigation**: Switching between Home, Settings, and Live TV is now instant. We've added persistent session caching so you don't have to wait for channels to reload when navigating back.
-- **Improved Caching**: Category and channel lists are cached more aggressively during your session for a smoother experience.
+### 🕒 Recently Watched
+- **Quick History**: A new **Recently Watched** category has been added to the Live TV sidebar (right under Favorites), giving you instant access to your last 50 viewed channels.
 
-### 🎨 Visual Improvements
-- **Better Logo Handling**: Fixed an issue where channel logos would look pixelated or stretched while loading the video player.
-- **Refined UI**: Polished the Content Manager interface with search and filter options.
-
-## 🚀 Recent Highlights
-- **Multiple EPG Support**: Add multiple TV Guide sources to a single playlist.
-- **Global Search**: Press `Cmd+K` / `Ctrl+K` to search everything.
-- **Auto-Refresh**: Flexible options (1h - 72h) to keep your content up to date.
+## 🛠️ Improvements & Fixes
+- **Picture-in-Picture**: Fixed issues where the PiP button could get stuck or fail to work after changing channels.
+- **Performance**: Optimized player state management for smoother channel switching.
 
 ---
 *Thank you for your feedback!*
