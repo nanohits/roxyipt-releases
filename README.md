@@ -3,7 +3,7 @@ Download the latest version of Mac and Windows from the Releases section.
 
 Release notes:
 
-RoxyIPTV v1.0.4 brings essential family safety features and a significant upgrade to the video player experience.
+**RoxyIPTV v1.0.4** brings essential family safety features and a significant upgrade to the video player experience.
 
 ## 🌟 New Features
 
